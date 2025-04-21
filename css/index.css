@@ -1,0 +1,49 @@
+/* Título principal */
+.tituOne {
+    font-size: 2.8rem;
+    color: #4aa8cd;
+    margin-bottom: 1rem;
+  }
+  
+  /* Edad */
+  .edad {
+    font-size: 1.3rem;
+    margin-bottom: 3rem;
+    color: #ddd;
+  }
+  
+  /* Subtítulos */
+  .tituTwo,
+  .tituThree {
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: #ffdd57;
+  }
+  
+  /* Lista de pasatiempos */
+  .lista {
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+  }
+  
+  .enunciado {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    background-color: rgba(255, 255, 255, 0.05);
+    padding: 1rem 15rem;
+    border-radius: 10rem;
+    transition:0.3s;
+  }
+  
+  .enunciado:hover {
+    background-color: rgba(0, 255, 200, 0.2);
+  }
+  
+  /* Correo */
+  .correo {
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    color: #ccc;
+  }
+  
